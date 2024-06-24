@@ -2,7 +2,7 @@
 Hamburg | Web Dev Noob in Training | Influencer Marketing Expert 
 
 ---
-#### 🌟Here is an excerpt of some of my weirdest projects:🌟
+#### 🌟Here is an excerpt of some of my weirdest projects🌟
 ---
 I used to be a producer for the 9:16 House and therefore in charge of videos like these.   
 Later I was Lead Strategist for the first 9:16 AWARDS.🏆  
@@ -16,9 +16,9 @@ alt="Video from the 9:16 House" width="240" height="180" border="10" /></a>
 alt="VOD of the first 9:16 AWARDS" width="240" height="180" border="10" /></a>
 ---
 
-And this is me right after & during doing these projects:
+And this is me during and right after doing these projects:
 
-![](https://media.giphy.com/media/3o7TKxR1Eh6HlQComs/giphy.gif?cid=ecf05e47iy17v8sao2cesz4q3yxc3y1bxcx6cw69qeeviz19&ep=v1_gifs_search&rid=giphy.gif)
+<img src="https://media.giphy.com/media/3o7TKxR1Eh6HlQComs/giphy.gif?cid=ecf05e47iy17v8sao2cesz4q3yxc3y1bxcx6cw69qeeviz19&ep=v1_gifs_search&rid=giphy.gif" width="150" height="150">
 
 If you're still reading this way too long README, check out my dog's TikTok lol [<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ionicons_logo-tiktok.svg" width="15" height="15">]([https://www.instagram.com/ana.pec/](https://www.tiktok.com/@916.dog))
 
