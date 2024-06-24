@@ -16,7 +16,7 @@ alt="Video from the 9:16 House" width="240" height="180" border="10" /></a>
 alt="VOD of the first 9:16 AWARDS" width="240" height="180" border="10" /></a>
 ---
 
-And this is me during and right after doing these projects:
+And this was me during and right after doing these projects:
 
 <img src="https://media.giphy.com/media/3o7TKxR1Eh6HlQComs/giphy.gif?cid=ecf05e47iy17v8sao2cesz4q3yxc3y1bxcx6cw69qeeviz19&ep=v1_gifs_search&rid=giphy.gif" width="150" height="150">
 
