@@ -4,8 +4,9 @@ Hamburg | Web Dev Noob in Training | Influencer Marketing Expert
 ---
 #### 🌟Here is an excerpt of some of my weirdest projects:🌟
 ---
-I used to be a producer for the 9:16 House and therefore in charge of videos like these. 📈
-Later I was Lead Strategist for the first 9:16 AWARDS. 
+I used to be a producer for the 9:16 House and therefore in charge of videos like these.   
+Later I was Lead Strategist for the first 9:16 AWARDS.🏆  
+
 🥹Take a look: 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c4wiedUlmLY
@@ -15,6 +16,6 @@ alt="Video from the 9:16 House" width="240" height="180" border="10" /></a>
 alt="VOD of the first 9:16 AWARDS" width="240" height="180" border="10" /></a>
 ---
 
-And this is me after & during doing these projects:
+And this is me right after & during doing these projects:
 
-![](https://media.giphy.com/media/l0HlMG1EX2H38cZeE/giphy.gif)
+![](https://media.giphy.com/media/3o7TKxR1Eh6HlQComs/giphy.gif?cid=ecf05e47iy17v8sao2cesz4q3yxc3y1bxcx6cw69qeeviz19&ep=v1_gifs_search&rid=giphy.gif)
